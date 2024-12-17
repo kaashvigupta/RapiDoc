@@ -1,0 +1,1 @@
+RapiDoc, an online platform enables users to get quick access to information regarding health care facilities and much more. It enables users to get quick access to information about their nearest hospitals. It aims to improve access to quality healthcare and addressing health-related challenges.
